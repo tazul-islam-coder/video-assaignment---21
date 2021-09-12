@@ -1,0 +1,28 @@
+.header{
+    background: linear-gradient(rgba(28, 90, 61, 0.76),rgba(30, 30, 122, 0.925));
+}
+.carousel-item img{
+    height: 600px;
+}
+.about-heading{
+    background-color: rgb(181, 203, 204);
+}
+.o-developers{
+    background-color: #f8f9fa;
+}
+.bar-progress{
+    width: 30%;
+}
+.td-bg{
+    background-color: rgb(235, 235, 235);
+}
+
+.our-student{
+    background: linear-gradient(rgba(196, 195, 195, 0.836),rgba(154, 190, 154, 0.877));
+}
+.form-sec{
+    background: linear-gradient(rgba(120, 120, 165, 0.836),rgba(154, 190, 154, 0.877));
+}
+.alart-h{
+    background: linear-gradient(rgba(154, 190, 154, 0.877),rgba(138, 110, 110, 0.911));
+}
